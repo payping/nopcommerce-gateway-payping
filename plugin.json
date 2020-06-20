@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Payment methods",
+  "FriendlyName": "پی پینگ",
+  "SystemName": "Payments.PayPing",
+  "Version": "1.3",
+  "SupportedVersions": [ "4.20" ],
+  "Author": "PayPing Team",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Payments.PayPing.dll",
+  "Description": "این پلاگین امکان پرداخت از طریق پی پینگ را فراهم میکند"
+}
