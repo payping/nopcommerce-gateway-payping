@@ -1,1 +1,0 @@
-# nopcommerce-gateway-payping
